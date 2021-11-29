@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi there, I'm **Cauã Philipp**, a **Self taugth developer** looking for **Experience in real life projects** 🚀 from Brazil.
+Hi there, I'm **Cauã Philipp**, a **Self taught developer** looking for **Experience in real life projects** 🚀 from Brazil.
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
