@@ -1,38 +1,17 @@
-### Hey 👋, I'm Philipp
+### Hi there 👋, my name is Cauã philipp
+#### I am developer
+![I am developer](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
-<a href="https://www.linkedin.com/in/cau%C3%A3-philipp-2a6223222/">
-  <img align="left" alt="ManoPhil´s LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/_mano_phil_/">
-  <img align="left" alt="ManoPhil´s Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+As a developer, i always want to learn new things and improve my skills
 
-<br />
-<br />
+Skills: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flask.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/neovim.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/archlinux.svg" />
 
-Hi there, I'm **Cauã Philipp**, a **Self taught developer** looking for **Experience in real life projects** 🚀 from Brazil.
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on personal projects to get technical experience;
-- 🌱 I’m currently learning Web development; 
-- 🤔 My interests are with web development, low level development and all backend developer stuff;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via cphil246@gmail.com to reach me.
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Web development, cross platform apps and embedded devices 
+- 👯 I’m looking to collaborate on Open Source and innovation projects 
+- 📫 How to reach me: cphil246@gmail.com 
 
 
-**Languages and Tools:**  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manophil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cauã-philipp-2a6223222/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mano_phil_/)  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![ManoPhil github stats](https://github-readme-stats.vercel.app/api?username=manophil&show_icons=true&hide_border=true)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manophil&show_icons=true)  
