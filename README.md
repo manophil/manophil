@@ -4,7 +4,7 @@
 
 As a developer, i always want to learn new things and improve my skills
 
-Skills: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flask.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/neovim.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/archlinux.svg" />
+Skills: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flask.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/neovim.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/archlinux.svg" />
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web development, cross platform apps and embedded devices 
