@@ -3,7 +3,7 @@
 
 As a curious student, i always want to learn new things and improve my skills
 
-Skills: [![My Skills](https://skillicons.dev/icons?i=python,c,linux,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,linux,django)](https://skillicons.dev)
  
 - 🌱 I’m currently learning Web development, low level programming and cybersecurity subjects
 - 👯 I’m looking to collaborate on Open Source and innovation projects 
