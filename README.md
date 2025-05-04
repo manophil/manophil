@@ -10,6 +10,4 @@ Skills: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-ico
 - 📫 How to reach me: cphil246@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manophil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cauã-philipp-2a6223222/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mano_phil_/)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manophil&show_icons=true)  
