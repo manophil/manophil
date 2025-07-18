@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Cauã philipp
+### Hi there 👋
 ![I am developer](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 As a curious student, i always want to learn new things and improve my skills
